@@ -24,5 +24,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Replacing an character among the strings,Replacing the string at odd index,To check Anagram of strings|[Click here] (https://github.com/sure-trust/G11_Java/tree/main/Mini%20Projects/Yaseer)                        |
-| Final Project: Vehicle Booking System     | [Click here] (https://github.com/sure-trust/G11_Java/tree/main/Final%20Capstone%20Project/Yaseer/CoreJavaProject/CoreJavaProject)                         |
+| Mini Projects: Replacing an character among the strings,Replacing the string at odd index,To check Anagram of strings|[Click here](https://github.com/sure-trust/G11_Java/tree/main/Mini%20Projects/Yaseer)                        |
+| Final Project: Vehicle Booking System     | [Click here](https://github.com/sure-trust/G11_Java/tree/main/Final%20Capstone%20Project/Yaseer/CoreJavaProject/CoreJavaProject)                         |
