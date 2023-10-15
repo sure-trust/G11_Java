@@ -21,14 +21,7 @@ To enroll in the Java Course, please visit the official SURE Trust website: [Cou
 
 |Students Name|Link|
 |-------------|----|
-|Kavya|[click here](link)|
-|Lingamaiah|[click here](link)|
-|Madhu Latha|[click here](link)|
-|Rammohan|[click here](link)|
-|Renu|[click here](link)|
-|Shaiksha|[click here](link)|
-|Swetha|[click here](link)|
-|Yaseer|[click here](link)|
+|Yaseer|[click here](https://github.com/sure-trust/G11_Java/blob/main/Course%20Reports/Yaseer.md)|
 
 ## Repository Description
 
