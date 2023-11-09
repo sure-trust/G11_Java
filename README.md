@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Java Course Registration
 
-To enroll in the Java Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/40)
+To enroll in the Java Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 |Students Name|Link|
 |-------------|----|
